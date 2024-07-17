@@ -6,3 +6,5 @@
 121. Best Time to Buy and Sell Stock
 
 ## Day2:
+73. Set Matrix Zeroes
+1. Two Sum
