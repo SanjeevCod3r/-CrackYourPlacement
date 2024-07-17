@@ -14,5 +14,9 @@
 55. Jump Game -> Imp
 169. Majority Element -> M Voting Algo
 
+## Day3:
+122. Best Time to Buy and Sell Stock II
+974. Subarray Sums Divisible by K
+
 
 
