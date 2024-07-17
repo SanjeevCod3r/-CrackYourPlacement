@@ -16,7 +16,13 @@
 
 ## Day3:
 122. Best Time to Buy and Sell Stock II
-974. Subarray Sums Divisible by K
+974. Subarray Sums Divisible by K -> Imp
+15. 3Sum -> Imp
+1423. Maximum Points You Can Obtain from Cards
+560. Subarray Sum Equals K -> Imp
+88. Merge Sorted Array
+
+
 
 
 
