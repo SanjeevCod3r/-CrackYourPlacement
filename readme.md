@@ -9,3 +9,10 @@
 73. Set Matrix Zeroes
 1. Two Sum
 11. Container With Most Water
+GFG. Chocolate Distribution Problem -> Imp
+442. Find All Duplicates in an Array -> Imp
+55. Jump Game -> Imp
+169. Majority Element -> M Voting Algo
+
+
+
