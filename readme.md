@@ -22,6 +22,11 @@
 560. Subarray Sum Equals K -> Imp
 88. Merge Sorted Array
 
+## Day4:
+20. Valid Parentheses
+00. Print all the duplicate characters in a string -> GFG
+
+
 
 
 
