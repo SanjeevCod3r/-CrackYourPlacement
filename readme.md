@@ -25,6 +25,11 @@
 ## Day4:
 20. Valid Parentheses
 00. Print all the duplicate characters in a string -> GFG
+14. Longest Common Prefix
+680. Valid Palindrome II
+151. Reverse Words in a String
+
+
 
 
 
