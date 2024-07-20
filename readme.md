@@ -29,6 +29,16 @@
 680. Valid Palindrome II
 151. Reverse Words in a String
 
+## Day5:
+79. Word Search
+289. Game of Life
+493. Reverse Pairs
+18. 4Sum
+54. Spiral Matrix
+48. Rotate Image
+628. Maximum Product of Three Numbers
+
+## Day6:
 
 
 
