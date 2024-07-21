@@ -39,6 +39,9 @@
 628. Maximum Product of Three Numbers
 
 ## Day6:
+22. Generate Parentheses
+28. Find the Index of the First Occurrence in a String
+
 
 
 
