@@ -42,6 +42,8 @@
 22. Generate Parentheses
 28. Find the Index of the First Occurrence in a String
 12. Integer to Roman
+71. Simplify Path
+49. Group Anagrams
 
 
 
