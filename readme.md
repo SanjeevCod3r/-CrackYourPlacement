@@ -45,6 +45,23 @@
 71. Simplify Path
 49. Group Anagrams
 
+## Day7:
+876. Middle of the Linked List
+141. Linked List Cycle
+
+## Day8:
+
+## Day9:
+1290. Convert Binary Number in a Linked List to Integer
+83. Remove Duplicates from Sorted List
+00. Sort a linked list of 0s, 1s and 2s ->GFG
+203. Remove Linked List Elements
+21. Merge Two Sorted Lists
+
+
+
+
+
 
 
 
